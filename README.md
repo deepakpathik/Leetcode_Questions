@@ -25,4 +25,13 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/deepakpathik/deepakpathik/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deepakpathik/deepakpathik/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deepakpathik/deepakpathik/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/deepakpathik/deepakpathik/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
