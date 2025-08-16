@@ -65,4 +65,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/deepakpathik/deepakpathik/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/deepakpathik/deepakpathik/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
