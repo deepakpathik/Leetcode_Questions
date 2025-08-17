@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0001-two-sum](https://github.com/deepakpathik/deepakpathik/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/deepakpathik/deepakpathik/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/deepakpathik/deepakpathik/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Here are some ideas to get you started:
 | [0003-longest-substring-without-repeating-characters](https://github.com/deepakpathik/deepakpathik/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/deepakpathik/deepakpathik/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/deepakpathik/deepakpathik/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/deepakpathik/deepakpathik/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,4 +74,8 @@ Here are some ideas to get you started:
 | ------- |
 | [0009-palindrome-number](https://github.com/deepakpathik/deepakpathik/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/deepakpathik/deepakpathik/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/deepakpathik/deepakpathik/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
