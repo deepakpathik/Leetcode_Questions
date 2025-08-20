@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/deepakpathik/deepakpathik/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/deepakpathik/deepakpathik/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/deepakpathik/deepakpathik/tree/master/0024-swap-nodes-in-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,4 +89,5 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/deepakpathik/deepakpathik/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/deepakpathik/deepakpathik/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
