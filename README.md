@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepakpathik/deepakpathik/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/deepakpathik/deepakpathik/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -22,4 +23,9 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/deepakpathik/deepakpathik/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/deepakpathik/deepakpathik/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/deepakpathik/deepakpathik/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
