@@ -33,6 +33,7 @@
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Table
@@ -44,4 +45,12 @@
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
