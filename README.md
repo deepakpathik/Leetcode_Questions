@@ -10,12 +10,14 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/deepakpathik/deepakpathik/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -29,10 +31,12 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0100-same-tree) |
+| [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
 ## Array
 |  |
 | ------- |
