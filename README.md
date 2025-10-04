@@ -11,6 +11,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0100-same-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -62,4 +65,12 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
