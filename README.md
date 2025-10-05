@@ -12,6 +12,7 @@
 | [0110-balanced-binary-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0110-balanced-binary-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -35,11 +37,13 @@
 | [0110-balanced-binary-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +73,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Stack
 |  |
 | ------- |
