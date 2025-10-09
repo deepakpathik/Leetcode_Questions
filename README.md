@@ -52,6 +52,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0120-triangle) |
 ## Matrix
 |  |
 | ------- |
