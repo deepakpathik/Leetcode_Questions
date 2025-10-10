@@ -53,6 +53,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [0064-minimum-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0064-minimum-path-sum) |
 | [0119-pascals-triangle-ii](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
