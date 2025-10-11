@@ -13,6 +13,7 @@
 | [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -38,6 +40,7 @@
 | [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -71,6 +74,7 @@
 | [0119-pascals-triangle-ii](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Matrix
 |  |
 | ------- |
