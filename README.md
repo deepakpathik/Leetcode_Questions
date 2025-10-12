@@ -88,4 +88,12 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
