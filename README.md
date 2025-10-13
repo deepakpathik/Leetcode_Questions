@@ -47,6 +47,7 @@
 | [0100-same-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0322-coin-change](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0322-coin-change) |
 ## Array
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0119-pascals-triangle-ii](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0322-coin-change) |
 | [1755-defuse-the-bomb](https://github.com/deepakpathik/Leetcode_Questions/tree/master/1755-defuse-the-bomb) |
 ## Hash Table
 |  |
@@ -76,6 +78,7 @@
 | [0120-triangle](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0322-coin-change) |
 ## Matrix
 |  |
 | ------- |
