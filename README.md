@@ -57,6 +57,7 @@
 | [0119-pascals-triangle-ii](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1755-defuse-the-bomb](https://github.com/deepakpathik/Leetcode_Questions/tree/master/1755-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [1652-minimum-suffix-flips](https://github.com/deepakpathik/Leetcode_Questions/tree/master/1652-minimum-suffix-flips) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/deepakpathik/Leetcode_Questions/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
