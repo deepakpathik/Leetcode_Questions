@@ -96,4 +96,9 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0125-valid-palindrome) |
+| [1652-minimum-suffix-flips](https://github.com/deepakpathik/Leetcode_Questions/tree/master/1652-minimum-suffix-flips) |
+## Greedy
+|  |
+| ------- |
+| [1652-minimum-suffix-flips](https://github.com/deepakpathik/Leetcode_Questions/tree/master/1652-minimum-suffix-flips) |
 <!---LeetCode Topics End-->
