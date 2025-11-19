@@ -30,6 +30,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/deepakpathik/deepakpathik/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Tree
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 | [0120-triangle](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0322-coin-change) |
 | [1755-defuse-the-bomb](https://github.com/deepakpathik/Leetcode_Questions/tree/master/1755-defuse-the-bomb) |
 ## Hash Table
@@ -81,6 +83,7 @@
 | [0120-triangle](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0322-coin-change) |
 ## Matrix
 |  |
