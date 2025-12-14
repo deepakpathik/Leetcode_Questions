@@ -14,13 +14,15 @@ class Solution:
             arr.append(node.val)
             inorder(node.right)
         inorder(root)
+        return arr == sorted(arr) and len(arr) == len(set(arr))
+
         # d=arr[:]
         # d.sort()
         # if d==arr:
         #     return True
         # else:
         #     return False
-        for i in range(1, len(arr)):
-            if arr[i] <= arr[i - 1]:
-                return False
-        return True
+        # for i in range(1, len(arr)):
+        #     if arr[i] <= arr[i - 1]:
+        #         return False
+        # return True
