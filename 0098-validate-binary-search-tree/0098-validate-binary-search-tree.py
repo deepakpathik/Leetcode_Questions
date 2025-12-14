@@ -14,7 +14,12 @@ class Solution:
             arr.append(node.val)
             inorder(node.right)
         inorder(root)
-
+        # d=arr[:]
+        # d.sort()
+        # if d==arr:
+        #     return True
+        # else:
+        #     return False
         for i in range(1, len(arr)):
             if arr[i] <= arr[i - 1]:
                 return False
