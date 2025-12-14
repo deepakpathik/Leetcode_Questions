@@ -65,6 +65,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0322-coin-change) |
 | [1755-defuse-the-bomb](https://github.com/deepakpathik/Leetcode_Questions/tree/master/1755-defuse-the-bomb) |
+| [2974-minimum-number-game](https://github.com/deepakpathik/Leetcode_Questions/tree/master/2974-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,8 +129,17 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/deepakpathik/Leetcode_Questions/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/deepakpathik/Leetcode_Questions/tree/master/2974-minimum-number-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/deepakpathik/Leetcode_Questions/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
