@@ -142,4 +142,8 @@
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/deepakpathik/Leetcode_Questions/tree/master/2974-minimum-number-game) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/deepakpathik/Leetcode_Questions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
